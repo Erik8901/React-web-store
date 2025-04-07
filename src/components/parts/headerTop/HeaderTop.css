@@ -1,0 +1,29 @@
+.header-top-main-container {
+    height: 3rem;
+    width: 100vw;
+    box-sizing: border-box;
+    border: none;
+    background: #28282B;
+    /* background-color: rgba(30, 30, 32, 0.93); */
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    line-height: 17.5px;
+    font-family: Helvetica;
+    top: 0;
+    position: fixed;
+    display: flex;
+    border-bottom: 1px solid #696969;
+    z-index: 100;
+}
+
+.text-newsletter-sub {
+    margin: 0 auto;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1000px) {
+    .text-newsletter-sub {
+        padding: 0.6rem;
+    }
+}

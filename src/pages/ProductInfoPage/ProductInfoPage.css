@@ -1,0 +1,14 @@
+.selected-product-main-container {
+    position: relative;
+    width: auto;
+    margin-top: 10rem;
+    z-index: 10;
+    overflow: hidden;
+}
+
+.selected-product-info {
+    display: flex;
+    width: 42vw;
+    flex-direction: column;
+    margin: 0 auto;
+}
