@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-web-store/static/css/main.7755c33b.css",
+    "main.js": "/React-web-store/static/js/main.ee886dbb.js",
+    "static/js/787.ebf7d54e.chunk.js": "/React-web-store/static/js/787.ebf7d54e.chunk.js",
+    "static/media/landingPageImg3.webp": "/React-web-store/static/media/landingPageImg3.5419c2bc1156818055c7.webp",
+    "static/media/landingPageImg1.webp": "/React-web-store/static/media/landingPageImg1.f1a1d9105acf27b7915a.webp",
+    "static/media/landingPageImg4.webp": "/React-web-store/static/media/landingPageImg4.9212409c45a8ac3281de.webp",
+    "static/media/landingPageImg2.webp": "/React-web-store/static/media/landingPageImg2.10fd702765f64d1982d3.webp",
+    "static/media/landingPageImg1-mobile.webp": "/React-web-store/static/media/landingPageImg1-mobile.9d7bdc0aff3b32ae1647.webp",
+    "static/media/AboutPageKids650.webp": "/React-web-store/static/media/AboutPageKids650.211d0b1b893c38a47eb1.webp",
+    "static/media/landingPageImg2-mobile.webp": "/React-web-store/static/media/landingPageImg2-mobile.bf893c8722ad75d724dc.webp",
+    "static/media/AboutUsWoman650.webp": "/React-web-store/static/media/AboutUsWoman650.399926394c54daa08801.webp",
+    "static/media/AboutPageMen650.webp": "/React-web-store/static/media/AboutPageMen650.501a31a17495050a324e.webp",
+    "index.html": "/React-web-store/index.html",
+    "main.7755c33b.css.map": "/React-web-store/static/css/main.7755c33b.css.map",
+    "main.ee886dbb.js.map": "/React-web-store/static/js/main.ee886dbb.js.map",
+    "787.ebf7d54e.chunk.js.map": "/React-web-store/static/js/787.ebf7d54e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7755c33b.css",
+    "static/js/main.ee886dbb.js"
+  ]
+}
